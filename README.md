@@ -11,3 +11,7 @@ https://plot.ly/python/candlestick-charts/
 
 Getting Started with Plotly for Python:
 https://plot.ly/python/getting-started/
+
+pip install plotly
+pip install pandas
+pip install pandas_datareader
